@@ -1,0 +1,112 @@
+<ctRoot>
+	<company>
+		<name>Halifax Mutual Pte. Ltd</name>
+		<address>
+			<street>7000 Abson Street</street>
+			<city>Daytona Beach</city>
+			<state>North Dakota</state>
+			<zip>OK86095</zip>
+		</address>
+		<ceo>Jessika Reiss</ceo>
+		<dateCreated>1978-01-20</dateCreated>
+	</company>
+	<company>
+		<name>Lounge Stores GmbH</name>
+		<address>
+			<street>1657 Augustus Lane</street>
+			<city>Cedar Rapids</city>
+			<state>Florida</state>
+			<zip>ME40896</zip>
+		</address>
+		<ceo>Francesco Stoner</ceo>
+		<dateCreated>1971-04-25</dateCreated>
+	</company>
+	<company>
+		<name>Plenty Energy B.V</name>
+		<address>
+			<street>6088 Palmerston</street>
+			<city>Stamford</city>
+			<state>North Dakota</state>
+			<zip>NH33057</zip>
+		</address>
+		<ceo>Gilberte Wolcott</ceo>
+		<dateCreated>2007-02-02</dateCreated>
+	</company>
+	<company>
+		<name>Then Mutual </name>
+		<address>
+			<street>8998 Stelfox Avenue</street>
+			<city>Sioux City</city>
+			<state>Wisconsin</state>
+			<zip>PA86207</zip>
+		</address>
+		<ceo>Hong Hooper-Dupre</ceo>
+		<dateCreated>1995-08-07</dateCreated>
+	</company>
+	<company>
+		<name>Lawsuit Stores </name>
+		<address>
+			<street>6449 Haddington Avenue</street>
+			<city>Athens</city>
+			<state>North Dakota</state>
+			<zip>HI67418</zip>
+		</address>
+		<ceo>Russell Rivers</ceo>
+		<dateCreated>1992-01-03</dateCreated>
+	</company>
+	<company>
+		<name>Drag SIA</name>
+		<address>
+			<street>8827 Mereheath</street>
+			<city>Pompano Beach</city>
+			<state>West Virginia</state>
+			<zip>OK46492</zip>
+		</address>
+		<ceo>Robbyn Rayburn</ceo>
+		<dateCreated>1996-01-13</dateCreated>
+	</company>
+	<company>
+		<name>Tourism Company</name>
+		<address>
+			<street>7812 Torwood</street>
+			<city>Winter Haven</city>
+			<state>New Hampshire</state>
+			<zip>MT95961</zip>
+		</address>
+		<ceo>Toney Knudsen</ceo>
+		<dateCreated>1986-01-18</dateCreated>
+	</company>
+	<company>
+		<name>Gym </name>
+		<address>
+			<street>8065 Marple Avenue</street>
+			<city>Deltona</city>
+			<state>West Virginia</state>
+			<zip>ND13000</zip>
+		</address>
+		<ceo>Laverna Brice</ceo>
+		<dateCreated>1999-05-02</dateCreated>
+	</company>
+	<company>
+		<name>Format Pte. Ltd</name>
+		<address>
+			<street>6856 Star</street>
+			<city>Naperville</city>
+			<state>Maryland</state>
+			<zip>NY10094</zip>
+		</address>
+		<ceo>Shawn Biddle</ceo>
+		<dateCreated>1992-03-09</dateCreated>
+	</company>
+	<company>
+		<name>Assure Energy GmbH</name>
+		<address>
+			<street>5137 Penryn Road</street>
+			<city>Topeka</city>
+			<state>Florida</state>
+			<zip>VA76056</zip>
+		</address>
+		<ceo>Olympia Giordano</ceo>
+		<dateCreated>1987-01-24</dateCreated>
+	</company>
+</ctRoot>
